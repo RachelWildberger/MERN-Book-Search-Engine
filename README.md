@@ -35,7 +35,7 @@
   * Use ``npm i @apollo/client``
 
   ## Useage 
-  Use the command ``npm run deploy`` to run the application on the localhost or visit the deployed application [here](https://dark-wildflower-3803.herokuapp.com/).
+  Visit the deployed application [here](https://proud-moon-25.herokuapp.com/).
   
 ![Mock of Book Search Engine](./assets/tech-blog-01.png)
 ![Mock of Book Search Engine](./assets/tech-blog-02.png)
